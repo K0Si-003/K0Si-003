@@ -9,7 +9,7 @@ Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec 
 
 ### Retrouvez moi sur LinkedIn
 
-[<img width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/hugo-pioda/" target="_blank"><img width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
 
 ### Outils et langages
 
