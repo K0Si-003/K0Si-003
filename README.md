@@ -9,7 +9,7 @@ Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec 
 
 ### Retrouvez moi sur LinkedIn
 
-[<img style="width:40px;margin:15px;" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 ### Outils et langages
 
