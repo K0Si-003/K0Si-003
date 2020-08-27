@@ -1,21 +1,15 @@
 ### Hello World ! 👋
 
-<br />
-
 ## Bienvenue sur mon profil Github
-
-<br />
 
 Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec React et Node.js.
 
 - 🔭 Je suis actuellement en stage chez LifeXtend
 - 🌱 Et je suis en train de monter en compétence sur Java et SpringBoot
 
-<br />
-
 ### Retrouvez moi sur LinkedIn
 
-[<img style="width:40px;color:#0077B5;margin:15px;" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
+[<img style="width:40px;margin:15px;" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 
 ### Outils et langages
 
