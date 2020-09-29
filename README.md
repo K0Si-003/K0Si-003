@@ -2,7 +2,8 @@
 
 ## Bienvenue sur mon profil Github
 
-Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec React et Node.js. Mais je suis tout aussi intéressé par d'autres technos
+Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec React et NodeJS. 
+Mais je suis tout aussi intéressé par d'autres technos en Vue 😉
 
 - 🔭 Je suis actuellement en stage chez LifeXtend
 - 🌱 Je développe un prototype de serious game
