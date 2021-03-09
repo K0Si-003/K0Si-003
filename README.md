@@ -5,9 +5,9 @@
 Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec React et NodeJS. 
 Mais je suis tout aussi intéressé par d'autres technos en Vue 😉
 
-- 🔭 Je suis actuellement en stage chez LifeXtend
-- 🌱 Je développe un prototype de serious game
-- 🔨 Je recherche une alternance en développement web pour novembre 2020
+- 🔨 Je recherche un contrat de professionnalisation en développement web pour avril 2021
+- 🔭 Je travaille actuellement sur le développement de mon portfolio en React
+- 🌱 J'ai commencé une formation en ligne sur Three.js
 
 ### Retrouvez moi sur LinkedIn
 
