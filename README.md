@@ -2,17 +2,6 @@
 
 ## Bienvenue sur mon profil Github
 
-Je m'appelle Hugo et je suis développeur web. Je travaille principalement avec React et NodeJS. 
-Mais je suis tout aussi intéressé par d'autres technos en Vue 😉
-
-- 🔨 Je recherche un contrat de professionnalisation en développement web pour avril 2021
-- 🔭 Je travaille actuellement sur le développement de mon portfolio en React
-- 🌱 J'ai commencé une formation en ligne sur Three.js
-
-### Retrouvez moi sur LinkedIn
-
-<a href="https://www.linkedin.com/in/hugo-pioda/" target="_blank"><img width="40px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
-
 ### Outils et langages
 
 <img align="left" alt="HTML 5" width="40px" style="margin:15px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
